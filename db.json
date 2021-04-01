@@ -1,44 +1,61 @@
 {
   "coobrigacao": [
        {
-          "history": "Coobrigação efetivada TOTVS Antecipa",
-          "creditUnits": [],
-          "operation": 3,
-          "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-          "erpId": "01000177936801",
-          "date": "20200728",
-          "localAmount": 771.78,
-          "feeAmount": 1.64,
-          "typeOperation": 0
+          "history": "Coobrigação efetivada TOTVS Antecipa - Operação 3-Coobrigação",
+      "creditUnits": [],
+      "operation": 3,
+      "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
+      "erpId": "01000177942101",
+      "date": "20200728",
+      "localAmount": 653.14,
+      "feeAmount": 4.70,
+      "typeOperation": 0
      }
   ],
-    "baixa": [
-         {
-            "history": "Baixa efetivada TOTVS Antecipa",
-            "creditUnits": [],
-            "operation": 1,
-            "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-            "erpId": "01000177936601",
-            "date": "20200728",
-            "localAmount": 629.18,
-            "feeAmount": 10.15,
-            "typeOperation": 0
+    "divergencia": [
+    {
+      "history": "Divergência Comercial efetivada TOTVS Antecipa - Operação 4-Divergência comercial",
+      "creditUnits": [],
+      "operation": 4,
+      "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
+      "erpId": "01000177942101",
+      "date": "20200728",
+      "localAmount":653.14,
+      "feeAmount": 4.70,
+      "feeAmountOrigin": 9.99,
+      "typeOperation": 1,
+      "bankCode": "1",
+      "agencyCode ": "4362-1",
+      "accountCode": "5237-X"
        }
    ],
-     "conciliacao": [
-         {
-            "history": "DIVCOM com 1-Debito: Divergencia comercial",
-            "creditUnits": [],
-            "operation": 20,
-            "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-            "erpId": "01000177936801",
-            "date": "20200728",
-            "localAmount": 771.78,
-            "feeAmount": 1.64,
-            "typeOperation": 1,
-            "bankCode": "1",
-            "agencyCode ": "4362-1",
-            "accountCode": "5237-X"
+     "recompra": [
+    {
+      "history": "Recompra efetivada TOTVS Antecipa - Operação 8-Recompra",
+      "creditUnits": [],
+      "operation": 8,
+      "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
+      "erpId": "01000177942101",
+      "date": "20200728",
+      "localAmount": 653.14,
+      "feeAmount": 4.70,
+      "typeOperation": 0
        }
+   ]
+   "conciliacao": [
+    {
+      "history": "RECOM com 1-Debito:Recompra",
+      "creditUnits": [],
+      "operation": 20,
+      "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
+      "erpId": "01000177942101",
+      "date": "20200728",
+      "localAmount": 653.14,
+      "feeAmount": 4.70,
+      "typeOperation": 1,
+      "bankCode": "1",
+      "agencyCode ": "4362-1",
+      "accountCode": "5237-X"
+    }
   ]
 }
