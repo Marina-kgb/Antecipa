@@ -1,18 +1,15 @@
 {
-  "baixa": [
+  "coobrigacao": [
     {
-      "history": "Baixa efetivada TOTVS Antecipa",
+      "history": "Coobrigação efetivada TOTVS Antecipa - Operação 3-Coobrigação",
       "creditUnits": [],
-      "operation": 1,
+      "operation": 3,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177935801",
+      "erpId": "01000177935802",
       "date": "20200728",
       "localAmount": 1149.72,
       "feeAmount": 21.53,
-      "typeOperation": 0,
-      "bankCode": "1",
-      "agencyCode ": "4362-1",
-      "accountCode": "5237-X"
+      "typeOperation": 0
      }
   ],
     "divergencia": [
