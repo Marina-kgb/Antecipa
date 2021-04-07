@@ -1,15 +1,18 @@
 {
-  "coobrigacao": [
+  "estorno da baixa": [
     {
-      "history": "Coobrigação efetivada TOTVS Antecipa - Operação 3-Coobrigação",
-      "creditUnits": [],
-      "operation": 3,
-      "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177935802",
-      "date": "20200728",
-      "localAmount": 1149.72,
-      "feeAmount": 21.53,
-      "typeOperation": 0
+       "history": "Estorno Baixa",
+       "creditUnits": [],
+       "operation": 2,
+       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
+       "erpId": "01000177936202",
+       "date": "20200828",
+       "localAmount": 1693.66,
+       "feeAmount": 15.69,
+       "typeOperation": 2,
+       "bankCode": "1",
+       "agencyCode ": "4362-1",
+       "accountCode": "5237-X"
      }
   ],
     "divergencia": [
