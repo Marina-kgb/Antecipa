@@ -57,7 +57,7 @@
       "bankCode": "1",
       "agencyCode ": "4362-1",
       "accountCode": "5237-X"
-    }
+       }
   ],
    "antecipacao": [
   {
@@ -70,7 +70,7 @@
     "localAmount": 611.82,
     "feeAmount": 9.99,
     "typeOperation": 1
-  }
+      }
 ]
   
 }
