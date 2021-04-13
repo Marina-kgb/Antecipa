@@ -45,13 +45,13 @@
    ],
      "conciliacao": [
     {
-      "history": "RECOM com 1-Debito:Recompra",
+      "history": "1-Debito: Coobrigação efetivada",
       "creditUnits": [],
       "operation": 20,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
       "erpId": "01000177945103",
       "date": "20200728",
-      "localAmount": 699.23,
+      "localAmount": 85.23,
       "feeAmount": 19.98,
       "typeOperation": 1,
       "bankCode": "1",
