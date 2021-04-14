@@ -1,14 +1,6 @@
 {"coobrigacao": [
    {
-     "history": "Coobrigação efetivada TOTVS Antecipa - Operação 3-Coobrigação",
-    "creditUnits": [],
-    "operation": 3,
-    "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-    "erpId": "01000177945102",
-    "date": "20200728",
-    "localAmount": 125.23,
-    "feeAmount": 20.5,
-    "typeOperation": 0
+  
      }
 
 ],
