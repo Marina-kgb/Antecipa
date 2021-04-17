@@ -15,14 +15,14 @@
       "creditUnits": [],
       "operation": 1,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177947103",
+      "erpId": "01000177948701",
       "date": "20200728",
-      "localAmount": 325.86,
-      "feeAmount": 10.22,
+      "localAmount": 350.86,
+      "feeAmount": 1.23,
       "typeOperation": 0,
       "bankCode": "1",
       "agencyCode ": "4362-1",
-      "accountCode": "5237-2"
+      "accountCode": "5237-X"
 
        }
    ],
