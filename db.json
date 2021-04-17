@@ -32,10 +32,10 @@
       "creditUnits": [],
       "operation": 20,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177947103",
+      "erpId": "01000177948701",
       "date": "20200728",
-      "localAmount": 611.80,
-      "feeAmount": 0.00,
+      "localAmount": 451.78,
+      "feeAmount": 1.23,
       "typeOperation": 2,
       "bankCode": "1",
       "agencyCode ": "4362-1",
@@ -48,10 +48,10 @@
     "creditUnits": [],
     "operation": 0,
     "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-    "erpId": "01000177947103",
+    "erpId": "01000177948701",
     "date": "20200728",
-    "localAmount": 611.82,
-    "feeAmount": 9.99,
+    "localAmount": 451.78,
+    "feeAmount": 1.23,
     "typeOperation": 0
       }
 ]
