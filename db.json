@@ -55,10 +55,10 @@
     "creditUnits": [],
     "operation": 0,
     "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-    "erpId": "01000177952102",
+    "erpId": "01000177945901",
     "date": "20200424",
-    "localAmount": 1748.02,
-    "feeAmount": 5.00,
+    "localAmount": 614.94,
+    "feeAmount": 1.70,
     "typeOperation": 0
       }
 ]
